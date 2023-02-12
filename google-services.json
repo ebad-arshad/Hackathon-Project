@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "108166087263",
+    "project_id": "olx-ebad",
+    "storage_bucket": "olx-ebad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:108166087263:android:ee3be20a70ee29a34211ea",
+        "android_client_info": {
+          "package_name": "com.practiceproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "108166087263-u922494kpv1jetn5gdloiqctqj0g67uu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCedH3dt1l5INyD2tFTauY1OskzVTgMHWE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "108166087263-u922494kpv1jetn5gdloiqctqj0g67uu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
